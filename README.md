@@ -7,4 +7,4 @@ Clicking on task change status.
 
 ## How to run
 
-Just openn index.html in your browser, or use this [LIINK](https://codesandbox.io/s/relaxed-grass-qirnz?file=/js/addTask.js) for live preview.
+Just openn index.html in your browser, or use this [LINK](https://codesandbox.io/s/relaxed-grass-qirnz?file=/js/addTask.js) for live preview.
